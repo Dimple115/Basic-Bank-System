@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.content3 h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.content3 p{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
